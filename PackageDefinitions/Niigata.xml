@@ -1,0 +1,79 @@
+<AssetPackage Name="niigata" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator>berry</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\niigata\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\niigata</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_bigswan">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_bigswan\</AssetDir>
+			<OutputDir>scenery\berry_bigswan\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_ecosta">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_ecosta\</AssetDir>
+			<OutputDir>scenery\berry_ecosta\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_mediaship">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_mediaship\</AssetDir>
+			<OutputDir>scenery\berry_mediaship\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_next21">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_next21\</AssetDir>
+			<OutputDir>scenery\berry_next21\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_niigatagov">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_niigatagov\</AssetDir>
+			<OutputDir>scenery\berry_niigatagov\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_tokimesse">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_tokimesse\</AssetDir>
+			<OutputDir>scenery\berry_tokimesse\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="myscene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

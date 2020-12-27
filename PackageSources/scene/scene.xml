@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: berry_bigswan-->
+	<SceneryObject lat="37.88268501479559" lon="139.05923908115881" alt="0.50000000000000" pitch="0.001544" bank="-0.001544" heading="-89.391877" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{8A53BCEC-BC78-4492-BF6A-1CB75FB29187}" scale="1.530000"/>
+	</SceneryObject>
+	<!--SceneryObject name: berry_ecosta-->
+	<SceneryObject lat="37.87902564674283" lon="139.06483080972899" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-90.288715" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C2E58009-513C-4E79-728F-83D74BF31DB2}" scale="1.550000"/>
+	</SceneryObject>
+	<!--SceneryObject name: berry_mediaship-->
+	<SceneryObject lat="37.91861105217394" lon="139.05627505046692" alt="0.00000000000000" pitch="0.000109" bank="0.000116" heading="-91.813267" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D7CFFFCF-B552-416C-E327-B396CDF69B61}" scale="0.390000"/>
+	</SceneryObject>
+	<!--SceneryObject name: berry_next21-->
+	<SceneryObject lat="37.92259201236575" lon="139.04318271185275" alt="0.50774839495518" pitch="0.000861" bank="-0.000861" heading="-75.999959" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{1F3FEE2B-A058-4E2F-0FF3-EEBF2695CC6A}" scale="0.820000"/>
+	</SceneryObject>
+	<!--SceneryObject name: berry_niigatagov-->
+	<SceneryObject lat="37.90231170371921" lon="139.02340800578429" alt="12.99465795208158" pitch="0.000854" bank="-0.000854" heading="-42.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{48F64D9A-190E-44C2-578E-2C1EFD806E0C}" scale="0.780000"/>
+	</SceneryObject>
+	<!--SceneryObject name: berry_tokimesse-->
+	<SceneryObject lat="37.92537918815427" lon="139.05938600000019" alt="0.00000000000000" pitch="0.000068" bank="-0.000068" heading="-89.499541" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{25DDC077-9630-4152-381F-0027FEF36135}" scale="0.775000"/>
+	</SceneryObject>
+	<Group name="Bigswan inside lights">
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88162635445771" lon="139.05912290746897" alt="32.88223261668740" pitch="-1.505322" bank="-0.401051" heading="-176.299900" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88172341563463" lon="139.05970356095864" alt="32.48739822310097" pitch="-2.521424" bank="-2.146213" heading="-173.113740" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88175914169765" lon="139.05886188089775" alt="41.88731291823652" pitch="-0.303902" bank="-0.000000" heading="-178.160376" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88203156865307" lon="139.05848204730896" alt="41.83804056771349" pitch="-0.312160" bank="0.294086" heading="-178.429280" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88204079943797" lon="139.06013454482971" alt="32.79517951453401" pitch="-1.422716" bank="-1.337937" heading="-175.269730" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88227331134863" lon="139.06015051013503" alt="41.72741293223928" pitch="-0.212142" bank="-1.537097" heading="-176.553095" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88245537081974" lon="139.05819870958601" alt="41.83547372610647" pitch="-0.312787" bank="0.293420" heading="-178.309738" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88257554241964" lon="139.06012267854729" alt="41.86542599886292" pitch="-0.141274" bank="-0.307741" heading="-178.126744" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88282571822395" lon="139.05815321574647" alt="41.80693290156614" pitch="-0.000000" bank="0.303258" heading="-177.803225" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88287079827236" lon="139.06008631072800" alt="41.83981473473819" pitch="0.167859" bank="-0.450674" heading="-178.162397" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88313794452567" lon="139.05988677119464" alt="41.88797389733928" pitch="0.324455" bank="-0.596761" heading="-178.130828" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88321150892845" lon="139.05815591249302" alt="32.73096427851117" pitch="0.624950" bank="1.209822" heading="179.317860" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88345822685660" lon="139.05964282122622" alt="41.71574016479592" pitch="0.920261" bank="-0.288036" heading="-179.110441" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88346128694135" lon="139.05855536406696" alt="32.51662691365117" pitch="1.937045" bank="1.720901" heading="176.784543" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88357299357645" lon="139.05911958447933" alt="32.83136260854714" pitch="0.916212" bank="0.302612" heading="179.918439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Bigswan lights">
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88180997199066" lon="139.05932747055985" alt="53.59998342516141" pitch="-0.892629" bank="-0.360452" heading="-176.318041" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88197739244162" lon="139.05981457167707" alt="53.54704082986564" pitch="-0.706652" bank="-0.809634" heading="-176.028564" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88200301276328" lon="139.05889848813646" alt="68.16422136221081" pitch="0.000000" bank="-0.000000" heading="-178.348506" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88237453322336" lon="139.05980490114575" alt="68.18045089471318" pitch="0.302612" bank="0.000000" heading="-178.623845" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88244602200363" lon="139.05862397682586" alt="68.16693965175600" pitch="-0.000000" bank="0.150658" heading="-178.605212" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88277661822055" lon="139.05961264529864" alt="68.22079497110099" pitch="0.000000" bank="-0.000000" heading="-178.349927" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88288621003510" lon="139.05843756144262" alt="68.12611935829479" pitch="-0.000000" bank="0.302612" heading="-178.464046" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88316859911012" lon="139.05923469909578" alt="68.18108695652336" pitch="-0.000000" bank="0.000000" heading="-178.370090" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88319368373944" lon="139.05848373204159" alt="53.69469145538999" pitch="0.448498" bank="0.315279" heading="-178.450986" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.88339228434285" lon="139.05899998984822" alt="53.75161755451760" pitch="0.000000" bank="-0.148038" heading="-177.104838" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Ecosta Lights">
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.87832171736539" lon="139.06395896001484" alt="46.09067487749295" pitch="1.240962" bank="0.000000" heading="-179.765101" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.87856684886464" lon="139.06515267710068" alt="46.00780849236915" pitch="2.854099" bank="1.085705" heading="176.938222" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.87894882710575" lon="139.06335583392041" alt="46.78117918003256" pitch="-1.548134" bank="1.983272" heading="-179.728041" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.87938139576067" lon="139.06529764399994" alt="46.60537657827273" pitch="-0.332791" bank="-4.199039" heading="-174.021445" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="TRUE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.87966981753852" lon="139.06354342266488" alt="34.24316128934601" pitch="-0.000000" bank="-0.000000" heading="-179.273956" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Cold-->
+		<SceneryObject lat="37.87991972550778" lon="139.06469698083546" alt="34.36392749793409" pitch="-0.000000" bank="-0.000000" heading="-179.273956" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{8EF4C350-65F3-455B-AF52-64511D7F9510}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Mediaship Lights">
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.91825618940081" lon="139.05602012361038" alt="90.44531152067677" pitch="0.000041" bank="90.027979" heading="-90.027979" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.91825618941525" lon="139.05602012361493" alt="57.17255284548921" pitch="0.000041" bank="90.027979" heading="-90.027979" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.91884190880197" lon="139.05642406825152" alt="81.58644891897492" pitch="0.000068" bank="90.027979" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.91889642467637" lon="139.05573286902995" alt="61.71391517993668" pitch="0.000048" bank="90.027979" heading="89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.91886604635955" lon="139.05574005636720" alt="90.56816302250598" pitch="0.000048" bank="90.027979" heading="89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Next21 Lights">
+		<!--SceneryObject name: Light_Warm-->
+		<SceneryObject lat="37.92235850075725" lon="139.04322134219711" alt="109.70915829370139" pitch="0.000902" bank="90.000003" heading="-89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm-->
+		<SceneryObject lat="37.92251967304686" lon="139.04354049103017" alt="109.67492968123406" pitch="0.000895" bank="90.000003" heading="-179.999336" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm-->
+		<SceneryObject lat="37.92261822604097" lon="139.04303027937442" alt="109.71267947275192" pitch="0.000908" bank="90.000003" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm-->
+		<SceneryObject lat="37.92278675948046" lon="139.04332532206976" alt="109.76798466787648" pitch="0.000922" bank="90.000003" heading="89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Tokimesse Lights">
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92557262627794" lon="139.06006287175219" alt="125.14370818697175" pitch="0.001332" bank="-89.972026" heading="0.181355" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92526972241440" lon="139.05926100498098" alt="124.84813862304779" pitch="0.004043" bank="-90.000003" heading="-166.165416" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92526972242704" lon="139.05926100498917" alt="94.74942236383738" pitch="0.004043" bank="-90.000003" heading="-166.165416" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92557262628043" lon="139.06006287175941" alt="95.04497668272749" pitch="0.001332" bank="-89.972026" heading="0.181355" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92526972243865" lon="139.05926100499605" alt="68.18272843898005" pitch="0.004043" bank="-90.000003" heading="-166.165416" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92557262628269" lon="139.06006287176569" alt="68.47826930904843" pitch="0.001332" bank="-89.972026" heading="0.181355" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92479918281948" lon="139.05948005040176" alt="125.48593835487991" pitch="0.001072" bank="-90.067539" heading="90.028119" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92567657991675" lon="139.05965243350170" alt="124.89469531387752" pitch="0.000048" bank="-89.960435" heading="-89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92567657992934" lon="139.05965243350664" alt="94.79597677718721" pitch="0.000048" bank="-89.960435" heading="-89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92479918281443" lon="139.05948005040059" alt="95.38721748057519" pitch="0.001072" bank="-90.067539" heading="90.028119" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92567657994009" lon="139.05965243351113" alt="68.22928088956814" pitch="0.000048" bank="-89.960435" heading="-89.972026" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Light_Warm_Medium-->
+		<SceneryObject lat="37.92479918281043" lon="139.05948005039915" alt="68.82051948510505" pitch="0.001072" bank="-90.067539" heading="90.028119" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+</FSData>
+
