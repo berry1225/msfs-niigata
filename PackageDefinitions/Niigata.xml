@@ -1,7 +1,7 @@
 <AssetPackage Name="niigata" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title/>
+		<Title>Niigata Landmarks</Title>
 		<Manufacturer/>
 		<Creator>berry</Creator>
 	</ItemSettings>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\niigata\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\niigata</OutputDir>
+			<AssetDir>PackageDefinitions\niigata\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\niigata\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="berry_bigswan">
 			<Type>ArtProj</Type>
