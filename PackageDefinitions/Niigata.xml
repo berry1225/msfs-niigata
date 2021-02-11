@@ -1,4 +1,4 @@
-<AssetPackage Name="niigata" Version="0.1.0">
+<AssetPackage Name="niigata" Version="0.2.1">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Niigata Landmarks</Title>
@@ -18,6 +18,14 @@
 			<AssetDir>PackageDefinitions\niigata\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\niigata\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="berry_bandai">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_bandai\</AssetDir>
+			<OutputDir>scenery\berry_bandai\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="berry_bigswan">
 			<Type>ArtProj</Type>
 			<Flags>
@@ -25,6 +33,22 @@
 			</Flags>
 			<AssetDir>PackageSources\berry_bigswan\</AssetDir>
 			<OutputDir>scenery\berry_bigswan\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_bsn">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_bsn\</AssetDir>
+			<OutputDir>scenery\berry_bsn\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_daishi">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_daishi\</AssetDir>
+			<OutputDir>scenery\berry_daishi\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="berry_ecosta">
 			<Type>ArtProj</Type>
@@ -34,6 +58,14 @@
 			<AssetDir>PackageSources\berry_ecosta\</AssetDir>
 			<OutputDir>scenery\berry_ecosta\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="berry_furumachi1">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_furumachi1\</AssetDir>
+			<OutputDir>scenery\berry_furumachi1\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="berry_mediaship">
 			<Type>ArtProj</Type>
 			<Flags>
@@ -41,6 +73,30 @@
 			</Flags>
 			<AssetDir>PackageSources\berry_mediaship\</AssetDir>
 			<OutputDir>scenery\berry_mediaship\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_mediashipside">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_mediashipside\</AssetDir>
+			<OutputDir>scenery\berry_mediashipside\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_misaki1">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_misaki1\</AssetDir>
+			<OutputDir>scenery\berry_misaki1\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_misaki2">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_misaki2\</AssetDir>
+			<OutputDir>scenery\berry_misaki2\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="berry_next21">
 			<Type>ArtProj</Type>
@@ -50,6 +106,14 @@
 			<AssetDir>PackageSources\berry_next21\</AssetDir>
 			<OutputDir>scenery\berry_next21\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="berry_niicityhall">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_niicityhall\</AssetDir>
+			<OutputDir>scenery\berry_niicityhall\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="berry_niigatagov">
 			<Type>ArtProj</Type>
 			<Flags>
@@ -58,6 +122,94 @@
 			<AssetDir>PackageSources\berry_niigatagov\</AssetDir>
 			<OutputDir>scenery\berry_niigatagov\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="berry_niinhk">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_niinhk\</AssetDir>
+			<OutputDir>scenery\berry_niinhk\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_nst1">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_nst1\</AssetDir>
+			<OutputDir>scenery\berry_nst1\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_nst2">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_nst2\</AssetDir>
+			<OutputDir>scenery\berry_nst2\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_nttb">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_nttb\</AssetDir>
+			<OutputDir>scenery\berry_nttb\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_nttd">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_nttd\</AssetDir>
+			<OutputDir>scenery\berry_nttd\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_nttm">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_nttm\</AssetDir>
+			<OutputDir>scenery\berry_nttm\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_okura">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_okura\</AssetDir>
+			<OutputDir>scenery\berry_okura\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_ryuto">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_ryuto\</AssetDir>
+			<OutputDir>scenery\berry_ryuto\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_teny1">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_teny1\</AssetDir>
+			<OutputDir>scenery\berry_teny1\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_teny2">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_teny2\</AssetDir>
+			<OutputDir>scenery\berry_teny2\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_tep">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_tep\</AssetDir>
+			<OutputDir>scenery\berry_tep\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="berry_tokimesse">
 			<Type>ArtProj</Type>
 			<Flags>
@@ -65,6 +217,22 @@
 			</Flags>
 			<AssetDir>PackageSources\berry_tokimesse\</AssetDir>
 			<OutputDir>scenery\berry_tokimesse\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_ux1">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_ux1\</AssetDir>
+			<OutputDir>scenery\berry_ux1\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="berry_ux2">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\berry_ux2\</AssetDir>
+			<OutputDir>scenery\berry_ux2\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="myscene">
 			<Type>BGL</Type>
