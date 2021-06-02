@@ -359,6 +359,6 @@ kynttilä橋と比べたら秒でできました。(あっちはきっちり資�
 
 やる気と時間とチョコレートが揃ったら追記します。
 
-`Buy me a chocolate`
+`Buy me chocolate`
 
 
